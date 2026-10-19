@@ -20,7 +20,7 @@ Core tagline:
 
 ## Major Moves Role
 
-Major Moves turns visual manifestos into short books, workbooks, lessons, Substack essays, Gumroad products, NotebookLM study packs, and community challenges.
+Major Moves turns visual manifestos into short books, workbooks, lessons, Substack essays, MAIM website products, NotebookLM study packs, and community challenges.
 
 It is the deeper doctrine layer for builders who move from beginner awareness into systems, automation, leverage, and legacy.
 
@@ -38,7 +38,7 @@ It is the deeper doctrine layer for builders who move from beginner awareness in
 | Airtable | Asset tracking and production status |
 | Google Drive | Final media exports |
 | Substack | Signal and audience validation |
-| Gumroad | Product and monetization layer |
+| MAIM website + Stripe | Owned product and monetization layer; verification required before launch |
 
 ## Shared Production Rule
 
@@ -100,3 +100,7 @@ Make it beautiful.
 Make it shippable.
 
 Likkle by likkle, we build the future.
+
+## October 2026 connected launch update
+
+Gumroad, Shopify and Kit are retired. See [the integrated handoff](MAIM_10_PILLARS_COMMERCE_APP_HANDOFF_2026-10-19.md) for the canonical separation of 10 Pillars doctrine, Major Moves visuals, owned checkout, weekly community sessions and proposed companion app. Existing creative work remains valid; do not erase it during commerce migration.
