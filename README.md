@@ -1,3 +1,5 @@
+[![Edit on Hanzo](https://hanzo.ai/badges/edit-on-hanzo.svg)](https://hanzo.app/dev?repo=https%3A%2F%2Fgithub.com%2FMajorDream444%2Fmajor-moves-series)
+
 # Major Moves Series
 
 The Major Moves Series is the publishing engine for the Major AI Mindset ecosystem.
